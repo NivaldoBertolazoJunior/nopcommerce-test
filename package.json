@@ -2,8 +2,7 @@
   "name": "nopcommece-cypress-web",
   "version": "1.0.0",
   "license": "ISC",
-  "description": "",
-  "main": "index.js",
+  "main": "e2e.js",
   "devDependencies": {
     "cypress": "^11.2.0",
     "cypress-xpath": "^2.0.1"
